@@ -33,7 +33,7 @@ Typical install time on a "normal" desktop computer <1h
 ## 3. Demo
 Download model.
 As github cannot upload files larger than 25MB, the model parameters are uploaded to the netbook, so please download them yourself.
-
+url:https://pan.quark.cn/s/abfa03693284
 Instructions to run on data：Input data into a saved model and output predictions (0 or 1).
 
 ## 4.Instructions for use
